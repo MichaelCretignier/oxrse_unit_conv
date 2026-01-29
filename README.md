@@ -2,6 +2,12 @@
 
 [![Unittest](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml/badge.svg)](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml)
 
+# Miku version
+
+<p align="center">
+  <img src="logo.png" alt="Project logo" width="400">
+</p>
+
 ## Overview
 
 OxRSE Unit Conversion is a simple unit conversion library designed primarily for teaching collaborative GitHub
