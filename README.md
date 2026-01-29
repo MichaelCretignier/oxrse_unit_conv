@@ -5,7 +5,7 @@
 # Miku version
 
 <p align="center">
-  <img src="logo.png" alt="Project logo" width="400">
+  <img src="logo.webp" alt="Project logo" width="400">
 </p>
 
 ## Overview
